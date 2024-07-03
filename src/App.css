@@ -280,10 +280,6 @@ i[class*='van-type-'] {
 }
 
 @media (min-width: 680px) {
-  /* .van-detail-container {
-    padding: 10px;
-  } */
-
   .van-detail {
     flex-direction: row;
     gap: 10px;
